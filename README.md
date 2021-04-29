@@ -6,10 +6,10 @@
 
 
 ## Linked list 
-* [Linked list](https://mybinder.org/v2/gh/tutorials-4newbies/trees/master?filepath=linked_list.ipynb)
+* [Linked list](https://mybinder.org/v2/gh/tutorials-4newbies/data-structures-intro-3/master?filepath=linked_list.ipynb)
 
 ## Hash map (And Implementing one)  - WIP
-* [Linked list](https://mybinder.org/v2/gh/tutorials-4newbies/trees/master?filepath=linked_list.ipynb)
+* [Linked list](https://mybinder.org/v2/gh/tutorials-4newbies/data-structures-intro-3/master?filepath=hashmap.ipynb)
 
 ### Sources
 
