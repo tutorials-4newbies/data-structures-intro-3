@@ -1,8 +1,13 @@
 # Data structures discussed here
 
-## stack  - WIP
+## stack  
 
-## Queue - WIP
+* [Stack](https://mybinder.org/v2/gh/tutorials-4newbies/data-structures-intro-3/master?filepath=stack.ipynb)
+
+
+## Queue 
+
+* [Queue](https://mybinder.org/v2/gh/tutorials-4newbies/data-structures-intro-3/master?filepath=queue.ipynb)
 
 
 ## Linked list 
@@ -42,4 +47,3 @@ pip install -r local-requirements.txt
 
 jupyter lab
 ```
-➜  data-structu
